@@ -1,0 +1,23 @@
+XA:iCT   XaT 
+Q   MAjouter une question au QUIZZL
+
+
+	DBeplace toi entre les champs avec	]SUITE
+	\Valide la question avec ]ENVOI
+
+
+
+
+
+Q\:
+]Q\:
+
+  ]R1\:
+
+
+]R2\:
+
+
+]R3\:
+		]Bonne rBeponse=(1,2,3)\:
+_ ]Envoi\ pour valider Esinon ]Sommaire\:jC 
